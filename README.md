@@ -30,8 +30,8 @@ i also used styles.css to change color of bootstrap navbar.
 
    For tailwind
 
-4. git clone https://github.com/your-username/bootstrap.git
-   cd bootstrap
+4. git clone https://github.com/your-username/tailwindcss.git
+   cd tailwindcss
 
 5. Initialize Git:
    git init
